@@ -1,1 +1,10 @@
-
+{
+  "comments": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "comment": "This is an example comment."
+    }
+  ]
+}
